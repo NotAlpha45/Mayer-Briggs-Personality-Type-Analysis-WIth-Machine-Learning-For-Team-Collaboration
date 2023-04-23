@@ -2,3 +2,4 @@
 * text=auto
 /datasets/MBTI_500.csv filter=lfs diff=lfs merge=lfs -text
 /datasets/MBTI_500.pq filter=lfs diff=lfs merge=lfs -text
+/datasets/label_seperated_MBTI_500.pq filter=lfs diff=lfs merge=lfs -text
